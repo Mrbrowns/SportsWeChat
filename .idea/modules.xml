@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Server.iml" filepath="$PROJECT_DIR$/.idea/modules/Server.iml" group="Server" />
+      <module fileurl="file://$PROJECT_DIR$/../SportsWeChat/.idea/modules/Server/Server_main.iml" filepath="$PROJECT_DIR$/../SportsWeChat/.idea/modules/Server/Server_main.iml" group="Server" />
+      <module fileurl="file://$PROJECT_DIR$/../SportsWeChat/.idea/modules/Server/Server_test.iml" filepath="$PROJECT_DIR$/../SportsWeChat/.idea/modules/Server/Server_test.iml" group="Server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SportsWeChat.iml" filepath="$PROJECT_DIR$/.idea/modules/SportsWeChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Templet.iml" filepath="$PROJECT_DIR$/.idea/modules/Templet.iml" group="Templet" />
+      <module fileurl="file://$PROJECT_DIR$/../SportsWeChat/.idea/modules/Templet/Templet_main.iml" filepath="$PROJECT_DIR$/../SportsWeChat/.idea/modules/Templet/Templet_main.iml" group="Templet" />
+      <module fileurl="file://$PROJECT_DIR$/../SportsWeChat/.idea/modules/Templet/Templet_test.iml" filepath="$PROJECT_DIR$/../SportsWeChat/.idea/modules/Templet/Templet_test.iml" group="Templet" />
+    </modules>
+  </component>
+</project>
