@@ -1,19 +1,16 @@
 <template>
-  <div>
-
-    <router-view
-      class="view"
-      keep-alive
-      transition
-      transition-mode="out-in">
-    </router-view>
-    <span style="white-space:pre"> </span>
-
-    <span style="white-space:pre">  </span>
-  </div>
+	<div id="app">
+		<router-view></router-view>
+	</div>
 </template>
 
-
 <script>
-
+  export default{
+    name: 'APP'
+  }
 </script>
+
+<style lang="scss">
+@import '~normalize.css/normalize.css';// normalize.css 样式格式化
+@import './styles/index.scss'; // 全局自定义的css样式
+</style>
